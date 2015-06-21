@@ -4,8 +4,8 @@
 
 ## This function will set and retrieve a matrix and its inverse from the environment.
 ## The set portion is used to reassign a matrix to the environment if the 
-## matrix you are using changes. The get allows the matrix that was inverted
-## to be recalled. The setInv function will set a inversion of the matrix to
+## matrix you are using changes. The get allows the target matrix to be recalled.
+##The setInv function will set a inversion of the matrix to
 ## the environment. The getInv function is used to retrieve an
 ## already inverted matrix from the environment.The functions are all set to a list
 ## so that it can be assigned to a object and that object can have all the functions.
